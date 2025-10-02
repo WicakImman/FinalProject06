@@ -1,12 +1,12 @@
 public class sigma {
     public static void main(String[] args) {
-        int n = 10; // Contoh nilai n
+        int n = 10;
         int sum = 0;
 
         for (int i = 1; i <= n; i++) {
             sum += i;
         }
 
-        System.out.println("Sigma dari 1 sampai " + n + " adalah: " + sum);
+        System.out.println("Sigma dari 1 sampai " + n + " adalah: " + sum + "skibidi");
     }
 }
